@@ -1,1 +1,1 @@
-Please Switch branch to master to view the project files
+Please Switch branch from main to master to view the project files
